@@ -29,20 +29,20 @@ This repository contains our XAI autonomous-driving project built on a YOLOv8-ba
 
 **Scene 1 — Det+Seg (baseline) vs Tri-task + CBAM**
 <p float="left">
-  <img src="assets/overlays/scene1_detseg.png" width="48%" />
-  <img src="assets/overlays/scene1_tritask_cbam.png" width="48%" />
+  <img src="figures/scene1_detseg.png" width="48%" />
+  <img src="figures/scene1_tritask_cbam.png" width="48%" />
 </p>
 
 **Scene 2 — Det+Seg (baseline) vs Tri-task + CBAM**
 <p float="left">
-  <img src="assets/overlays/scene2_detseg.png" width="48%" />
-  <img src="assets/overlays/scene2_tritask_cbam.png" width="48%" />
+  <img src="figures/scene2_detseg.png" width="48%" />
+  <img src="figures/scene2_tritask_cbam.png" width="48%" />
 </p>
 
 **Scene 3 — Det+Seg (baseline) vs Tri-task + CBAM**
 <p float="left">
-  <img src="assets/overlays/scene3_detseg.png" width="48%" />
-  <img src="assets/overlays/scene3_tritask_cbam.png" width="48%" />
+  <img src="figures/scene3_detseg.png" width="48%" />
+  <img src="figures/scene3_tritask_cbam.png" width="48%" />
 </p>
 
 
